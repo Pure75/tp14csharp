@@ -1,0 +1,9 @@
+bin
+obj
+*.idea
+*.vs
+*.swp
+*.png
+*.bmp
+*.userprefs
+
